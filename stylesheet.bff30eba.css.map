@@ -1,0 +1,1 @@
+{"version":3,"sources":["stylesheet.css"],"names":[],"mappings":"AAAA,WACE,yBAA4B,CAC5B,wEAA8C,CAC9C,eAAmB,CACnB,iBACF","file":"stylesheet.bff30eba.css","sourceRoot":"..","sourcesContent":["@font-face {\n  font-family: \"furoreregular\";\n  src: url(\"Furore-webfont.woff\") format(\"woff\");\n  font-weight: normal;\n  font-style: normal;\n}\n"]}
